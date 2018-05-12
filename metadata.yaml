@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2132
     wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44172#Roy-Blakeley-s-Motor-Caravan
 gutenberg_issued: '2013-11-13'
 gutenberg_type: Text
 identifiers:
